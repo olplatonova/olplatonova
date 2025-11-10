@@ -6,7 +6,7 @@
 
 Я тестировщик, находящийся в процессе развития и улучшения своих навыков и компетенций. Основная специализация на данный момент - телеком направление, тестирование предбилинговой системы, компонентов обработки голосового и дата-трафика. Мои сильные стороны: надежность, ответственность, способность к самообучению.
 
-- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ольга-платонова-616716121) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:olgaplatonova23@gmail.com)
+- 📫 Как связаться со мной: [![LinkedIn Badge](https://img.shields.io/badge/-@olgaplatonova-blue?style=flat&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ольга-платонова-616716121) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:olgaplatonova23@gmail.com)
 
 ---
 
@@ -114,7 +114,6 @@ https://docs.google.com/spreadsheets/d/17kgClZYg8uItTk7TRz5dK1eSpTBY2sCRKEJDRRlF
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div>
 
 ---
@@ -123,8 +122,7 @@ https://docs.google.com/spreadsheets/d/17kgClZYg8uItTk7TRz5dK1eSpTBY2sCRKEJDRRlF
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350" title="bash" alt="bash" width="40" height="40"/>&nbspp
   
 </div>
 
@@ -137,5 +135,3 @@ https://docs.google.com/spreadsheets/d/17kgClZYg8uItTk7TRz5dK1eSpTBY2sCRKEJDRRlF
 | Artsiom Rusau / Функциональное тестирование                     | 09/2025 - 11/2025 |
 
 --- -->
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
